@@ -45,7 +45,7 @@ class Juego{
 
 public:
     static Juego *getInstancia(){
-            if(instancia == 0)
+            if(instancia == NULL)
                 instancia = new Juego();
             return instancia;
         }
@@ -81,6 +81,8 @@ protected:
     private:
         static Juego *instancia;
 };
+
+Juego *Juego::instancia = 0;
 
 
 #endif // JUEGO_H
