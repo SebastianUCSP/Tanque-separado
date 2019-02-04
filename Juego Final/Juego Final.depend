@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1549243507 source:c:\users\sebastian\documents\ciencias de la computacion i\juego final\main.cpp
+	<iostream>
+	<cstdlib>
+	<allegro.h>
+	<fstream>
+	<algorithm>
+	<Sprite.h>
+	<Enemigo.h>
+	<Juego.h>
+	<Tanque.h>
+	<Bala.h>
+
+1549242796 source:c:\users\sebastian\documents\ciencias de la computacion i\juego final\src\sprite.cpp
+	"Sprite.h"
+
+1549243827 c:\users\sebastian\documents\ciencias de la computacion i\juego final\include\sprite.h
+	<Juego.h>
+
+1549243607 source:c:\users\sebastian\documents\ciencias de la computacion i\juego final\src\juego.cpp
+	"Juego.h"
+	<allegro.h>
+
+1549243859 c:\users\sebastian\documents\ciencias de la computacion i\juego final\include\juego.h
+	<allegro.h>
+	<iostream>
+
+1549243827 c:\users\sebastian\documents\ciencias de la computacion i\juego final\include\enemigo.h
+	<cstdlib>
+	<allegro.h>
+	<Sprite.h>
+	<Juego.h>
+
+1549243607 source:c:\users\sebastian\documents\ciencias de la computacion i\juego final\src\enemigo.cpp
+	"Enemigo.h"
+	<allegro.h>
+
+1549243607 source:c:\users\sebastian\documents\ciencias de la computacion i\juego final\src\tanque.cpp
+	"Tanque.h"
+	<allegro.h>
+
+1549243874 c:\users\sebastian\documents\ciencias de la computacion i\juego final\include\tanque.h
+	<allegro.h>
+	<Sprite.h>
+	<Enemigo.h>
+	<Juego.h>
+	<Bala.h>
+
+1549243495 source:c:\users\sebastian\documents\ciencias de la computacion i\juego final\src\bala.cpp
+	"Bala.h"
+
+1549243794 c:\users\sebastian\documents\ciencias de la computacion i\juego final\include\bala.h
+	<iostream>
+	<cstdlib>
+	<allegro.h>
+	<Sprite.h>
+	<Enemigo.h>
+	<Juego.h>
+	<Tanque.h>
+
